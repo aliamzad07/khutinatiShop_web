@@ -55,6 +55,19 @@ khutinatiShop_web/
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
+## 🚀 Deployment
+
+This project is configured for automatic deployment to Firebase Hosting via GitHub Actions.
+
+**Deployment triggers:**
+- Push to `main` branch
+- Pull Request merged to `main`
+
+**Setup:**
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for complete Firebase setup instructions.
+
+**Live URL:** https://khutinati-shop.web.app (after deployment)
+
 ## 🎨 Tech Stack
 
 - **React 18** - UI library
@@ -138,3 +151,4 @@ This project is private and proprietary.
 
 Happy coding! 🎉
 
+# khutinatiShop_web
